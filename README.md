@@ -1,4 +1,4 @@
-# AD-Project Home Lab
+# Acrive Directory Project Home Lab
 
 ## Objective
 
