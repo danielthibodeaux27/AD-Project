@@ -16,7 +16,7 @@ The AD project aimed to establish a controlled environment for simulating and de
 - Active Directory to configure a domain environment.
 - Splunk for log ingestion and analysis.
 - Kali Linux for penetration tesing.
-- Atomic Red Team for simulating attacks.
+- Atomic Red Team for simulating attacks and creating telemetry.
 
 ## Steps
 1. Set up 4 virtual machines. Windows Server 2022 (AD DS), Windows 10 (Target-PC), Kali Linux (Attacking Machine), Ubuntu Server (Splunk).
