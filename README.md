@@ -7,7 +7,7 @@ The AD project aimed to establish a controlled environment for simulating and de
 ### Skills Learned
 
 - Set up an Active Directory home lab to understand how a domain environment functions.
-- Learn to ingest events to Splunk by collecting and forwarding logs/events from a 
+- Learn to ingest events to Splunk by collecting and forwarding logs/events.
 - Generate telemetry related to real-workd attacks.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
