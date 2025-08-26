@@ -19,7 +19,7 @@ The AD project aimed to establish a controlled environment for simulating and de
 - Atomic Red Team for simulating attacks and creating telemetry.
 
 ## Steps
-1. Set up 4 virtual machines. Windows Server 2022 (AD DS), Windows 10 (Target-PC), Kali Linux (Attacking Machine), Ubuntu Server (Splunk).
+1. Set up 4 virtual machines. Windows Server 2022 (AD Domain Controller), Windows 10 (Target-PC), Kali Linux (Attacking Machine), Ubuntu Server (Splunk).
 
 2. <p>Created a <a href="https://imgur.com/a/HfG2QA9" style="color: blue; text-decoration: underline;">logical diagram</a> showing how the VMs were connected.</p>
 
